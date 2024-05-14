@@ -1,5 +1,11 @@
 # @yamada-ui/markdown
 
+## 1.0.29
+
+### Patch Changes
+
+- [#1526](https://github.com/yamada-ui/yamada-ui/pull/1526) [`362c81d`](https://github.com/yamada-ui/yamada-ui/commit/362c81d0af46d3d79947528bbace3acdfe024801) Thanks [@koralle](https://github.com/koralle)! - Use dedicated methods for `null`, `undefined` checks.
+
 ## 1.0.28
 
 ### Patch Changes

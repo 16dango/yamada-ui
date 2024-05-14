@@ -1,5 +1,11 @@
 # @yamada-ui/theme-tools
 
+## 1.0.32
+
+### Patch Changes
+
+- [#1516](https://github.com/yamada-ui/yamada-ui/pull/1516) [`9060bc5`](https://github.com/yamada-ui/yamada-ui/commit/9060bc524dc2379c64b00b240432a9d1a86917f6) Thanks [@hirotomoyamada](https://github.com/hirotomoyamada)! - Renamed parameter in `extendConfig` function.
+
 ## 1.0.31
 
 ### Patch Changes

@@ -1,5 +1,21 @@
 # @yamada-ui/react
 
+## 1.3.11
+
+### Patch Changes
+
+- Updated dependencies [[`9060bc5`](https://github.com/yamada-ui/yamada-ui/commit/9060bc524dc2379c64b00b240432a9d1a86917f6), [`c1349c3`](https://github.com/yamada-ui/yamada-ui/commit/c1349c3acb24eb0164aabeb59860c649e98d4c21), [`e078f57`](https://github.com/yamada-ui/yamada-ui/commit/e078f57e444071e31ed291020990054f69c83297), [`1d0855b`](https://github.com/yamada-ui/yamada-ui/commit/1d0855b15710b3197b7ddd0c2eb154455532991d), [`e8010fc`](https://github.com/yamada-ui/yamada-ui/commit/e8010fc3d3e83b92b39aa8c3634f2bd3fe737a94), [`4a85293`](https://github.com/yamada-ui/yamada-ui/commit/4a85293213e73a4054ec95de69996ac6e654a4c2), [`82575b8`](https://github.com/yamada-ui/yamada-ui/commit/82575b878d509de68f1e4cf5f050733eb011b2fb)]:
+  - @yamada-ui/theme-tools@1.0.32
+  - @yamada-ui/color-picker@1.2.15
+  - @yamada-ui/tag@1.0.26
+  - @yamada-ui/tooltip@1.0.28
+  - @yamada-ui/textarea@1.1.17
+  - @yamada-ui/infinite-scroll-area@1.0.10
+  - @yamada-ui/autocomplete@1.1.14
+  - @yamada-ui/file-input@1.0.30
+  - @yamada-ui/editable@1.0.30
+  - @yamada-ui/input@1.0.30
+
 ## 1.3.10
 
 ### Patch Changes

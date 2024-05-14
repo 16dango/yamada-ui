@@ -1,5 +1,14 @@
 # @yamada-ui/color-picker
 
+## 1.2.15
+
+### Patch Changes
+
+- [#1524](https://github.com/yamada-ui/yamada-ui/pull/1524) [`c1349c3`](https://github.com/yamada-ui/yamada-ui/commit/c1349c3acb24eb0164aabeb59860c649e98d4c21) Thanks [@hirotomoyamada](https://github.com/hirotomoyamada)! - Capitalize `aria-label` texts.
+
+- Updated dependencies []:
+  - @yamada-ui/input@1.0.30
+
 ## 1.2.14
 
 ### Patch Changes
